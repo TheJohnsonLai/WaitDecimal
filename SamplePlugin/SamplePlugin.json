@@ -1,13 +1,12 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "samplePlugin",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ]
+    "Author": "Johnson Lai",
+    "Name": "Wait Decimal",
+    "Punchline": "Adds decimal usage to wait macros",
+    "Description": "Adds decimal usage to wait macros. Example: <wait.2.5>",
+    "InternalName": "waitDecimal",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin"
+    ]
 }
